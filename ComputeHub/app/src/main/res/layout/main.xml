@@ -10,7 +10,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
         <fragment
-            class="com.ajsharm.computehub.DeviceDetailFragment"
+            class="com.ajsharm.computehub.DeviceListFragment"
             android:id="@+id/frag_list"
             android:layout_width="match_parent"
             android:layout_height="@dimen/phone_list_height">
